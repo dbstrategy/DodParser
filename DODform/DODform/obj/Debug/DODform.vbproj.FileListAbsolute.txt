@@ -1,0 +1,10 @@
+E:\Work\Digipioneer\DODform\DODform\bin\Debug\DODform.exe.config
+E:\Work\Digipioneer\DODform\DODform\bin\Debug\DODform.exe
+E:\Work\Digipioneer\DODform\DODform\bin\Debug\DODform.pdb
+E:\Work\Digipioneer\DODform\DODform\bin\Debug\DODform.xml
+E:\Work\Digipioneer\DODform\DODform\obj\Debug\DODform.Form1.resources
+E:\Work\Digipioneer\DODform\DODform\obj\Debug\DODform.Resources.resources
+E:\Work\Digipioneer\DODform\DODform\obj\Debug\DODform.vbproj.GenerateResource.Cache
+E:\Work\Digipioneer\DODform\DODform\obj\Debug\DODform.exe
+E:\Work\Digipioneer\DODform\DODform\obj\Debug\DODform.xml
+E:\Work\Digipioneer\DODform\DODform\obj\Debug\DODform.pdb
